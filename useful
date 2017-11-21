@@ -1,0 +1,8 @@
+echo ls | bash -
+xclip -o | xargs git clone
+!!
+bash tar -xzf file.tar.gz
+awk
+sudo systemctl serviceName restart
+pm2 start npm -- start == pm2 start 'npm start'
+pushd, popd
