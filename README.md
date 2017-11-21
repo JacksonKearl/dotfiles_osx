@@ -16,8 +16,9 @@
 3. Display: Turn on Nightshift, turn off automatic brightness
 4. Energy Saver: Turn off display after 15 min, turn off battery power dim
 5. Desktop and Screen Saver: Change background
-6. Language and Region: Add Chinese
+6. Language and Region: Add Chinese, make caps lock the key to change language
 7. Keyboard > Shortcuts > Mission Control: Move left and right to ^h ^l
+8. Spectacle Preferences: Launch on startup, change hotkeys to vim hotkeys
 
 ## Setup Programming Environment
 In iTerm2, run:
