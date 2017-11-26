@@ -1,7 +1,7 @@
 # Macbook Dotfiles & Install
 
 ## Packages and Apps to Install
-- Chrome
+- Firefox Quantum
 - iTerm2
 - Spectacle
 - Transmission
